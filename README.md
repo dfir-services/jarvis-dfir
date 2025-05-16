@@ -1,12 +1,9 @@
 # jarvis-dfir
 ## Jarvis - Digital Forensics &amp; Incident Response (J-DFIR, Jarvis-DFIR)
 
-![jdfir_logo_2](https://github.com/user-attachments/assets/449e5c16-0d76-4ce6-8b1c-9de0f41f4bdf)
-
-Jarvis-DFIR is a cutting-edge solution designed to streamline digital forensics and incident response. Equipped with a powerful MCP server, it serves as a centralized hub for forensic investigations and malware analysis.
-
-|||
-| ------------- |:-------------:|
+| | |
+| ------------- |:-------------|
+| **<img src="https://github.com/user-attachments/assets/449e5c16-0d76-4ce6-8b1c-9de0f41f4bdf" alt="Jarvis-DFIR" width="250"/>** | Jarvis-DFIR is a cutting-edge solution designed to streamline digital forensics and incident response. Equipped with a powerful MCP server, it serves as a centralized hub for forensic investigations and malware analysis. |
 | **Developped by**  |   [dfir.services](https://dfir.services) |
 | **Project site**  |   [jarvis.dfir.services](https://jarvis.dfir.services) |
 

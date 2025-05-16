@@ -1,6 +1,7 @@
 # jarvis-dfir
-**Jarvis - Digital Forensics &amp; Incident Response (J-DFIR, Jarvis-DFIR) - [jarvis.dfir.services]:jarvis.dfir.services**
+**Jarvis - Digital Forensics &amp; Incident Response (J-DFIR, Jarvis-DFIR)**
 
+More details to come soon om [jarvis.dfir.services]:jarvis.dfir.services
 
 Jarvis-DFIR is a cutting-edge solution designed to streamline digital forensics and incident response. Equipped with a powerful MCP server, it serves as a centralized hub for forensic investigations and malware analysis.
 
